@@ -1,2 +1,3 @@
-username, password, first_name, last_name, email, phone, bio
-Slinkydo, quantum99, Ryan, Sleszynski, sleszynski.ryan@gmail.com, 516-557-8823, Null
+username,password,first_name,last_name,email,phone,bio
+Slinkydo,password,Ryan,Sleszynski,ryansleszynaki@gmail.com,516-348-1648,Null
+Slinkydont,password,ryan,sleszynski,test.email@company.com,516-587-5641,Null

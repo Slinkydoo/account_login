@@ -7,10 +7,10 @@ class Account:
         self.email = email
         self.phone = phone
         self.bio = bio
-        accounts = open("accounts.txt", 'a')
 
 
 def create_account():
+
     pass
 
 
